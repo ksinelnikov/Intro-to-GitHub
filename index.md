@@ -5,7 +5,7 @@
 ##### Almost the smallest
 ###### Now the smallest
 
-![image of Urbit logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Urbit_Logo.svg/1200px-Urbit_Logo.svg.png)
+![image of Urbit logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Urbit_Logo.svg/225px-Urbit_Logo.svg.png)
 
 ```
 ~nock
