@@ -11,3 +11,7 @@
 ~nock
 @nock [1 [2 3]]
 ```
+
+- [ ] Complete GitHub intro
+- [ ] Start blog
+- [ ] Finish pitch deck
