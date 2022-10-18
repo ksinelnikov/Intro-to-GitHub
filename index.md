@@ -12,6 +12,6 @@
 @nock [1 [2 3]]
 ```
 
--[X] Complete GitHub intro
--[X] Start blog
--[ ] Finish pitch deck
+- [X] Complete GitHub intro
+- [X] Start blog
+- [ ] Finish pitch deck
